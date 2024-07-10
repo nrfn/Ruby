@@ -1,0 +1,6 @@
+name = "nrfn"
+language = "Ruby"
+hitokoto = "freelance"
+puts "name: #{name}"
+puts "language: #{language}"
+puts "hitokoto: #{hitokoto}"
